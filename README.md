@@ -2,9 +2,9 @@
 ### I ❤ 🐍!
 I work with Flask, Bootstrap, Netlify, Flexbox and GitHub
 
-pip install pyinstaller
+``pip install pyinstaller``
 
-pyinstaller -f -i absolut_path_to_icon file.py
+``pyinstaller -f -i absolut_path_to_icon file.py``
 <!--
 **Yourun-proger/Yourun-proger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
