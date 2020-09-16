@@ -1,6 +1,6 @@
 ### Hello👋 I'm young proger!
 ### I ❤ 🐍!
-I work with Flask, Bootstrap, Netlify, Flexbox and GitHub
+Deep Vue.js
 
 ``pip install pyinstaller``
 
