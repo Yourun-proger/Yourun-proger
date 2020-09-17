@@ -6,10 +6,6 @@
 
 **Bootstrap**
 
-**FlexBox**
-
-**CSS Grid**
-
 **Vue.js**
 
 #Back-end
