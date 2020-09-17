@@ -1,6 +1,22 @@
 ### Hello👋 I'm young proger!
 ### I ❤ 🐍!
-Deep Vue.js
+#Front-end
+
+**HTML&CSS + JS**
+
+**Bootstrap**
+
+**FlexBox**
+
+**CSS Grid**
+
+**Vue.js**
+
+#Back-end
+
+**JavaScript**
+
+**Flask**
 
 ``pip install pyinstaller``
 
