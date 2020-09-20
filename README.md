@@ -1,6 +1,6 @@
 ### Hello👋 I'm young proger!
 ### I ❤ 🐍!
-#Front-end
+# Front-end
 
 **HTML&CSS + JS**
 
@@ -8,7 +8,7 @@
 
 **Vue.js**
 
-#Back-end
+# Back-end
 
 **JavaScript**
 
