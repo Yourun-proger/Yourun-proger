@@ -18,7 +18,7 @@
 
 ``pyinstaller -f -i absolut_path_to_icon file.py``
 ## My web sites and apps
-_I have a calculaotr in web_
+[_I have a calculaotr in web_](https://calculatorbyyourun.netlify.app/)
 <!--
 **Yourun-proger/Yourun-proger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
