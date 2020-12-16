@@ -13,7 +13,7 @@
 **JavaScript**
 
 **Flask**
-## For easy app
+## For easy app with Python
 ``pip install pyinstaller``
 
 ``pyinstaller -f -i absolut_path_to_icon file.py``
