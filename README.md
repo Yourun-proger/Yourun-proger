@@ -1,22 +1,6 @@
 ### Hello👋 I'm young proger!
 ### I ❤ 🐍!
-# Front-end
-
-**HTML&CSS + JS**
-
-**Bootstrap**
-
-**Vue.js**
-
-# Back-end
-
-**JavaScript**
-
-**Flask**
-## For easy app with Python
-``pip install pyinstaller``
-
-``pyinstaller -f -i absolut_path_to_icon file.py``
+HTML&CSS, JavaScript, Vue.js, FlexBox, Bootstrap, Flask
 
 [_I have a calculaotr in web_](https://calculatorbyyourun.netlify.app/)
 <!--
