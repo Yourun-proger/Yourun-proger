@@ -2,7 +2,7 @@
 ### I ❤ 🐍!
 HTML&CSS, JavaScript, Vue.js, FlexBox, Bootstrap, Flask
 
-[_I have a calculaotr in web_](https://calculatorbyyourun.netlify.app/)
+[_I have a calculator in web_](https://calculatorbyyourun.netlify.app/)
 <!--
 **Yourun-proger/Yourun-proger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
