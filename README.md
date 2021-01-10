@@ -8,7 +8,7 @@ I study the **web** -> view [my progress](https://github.com/Yourun-proger/MyPla
 
 Plesae, get *stars* for my projects 
 
-and create *pull-requests*, *issues*, **if it is need**
+and create *pull-requests*, *issues* and *comments* - **if it is need**
 <!--
 **Yourun-proger/Yourun-proger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
