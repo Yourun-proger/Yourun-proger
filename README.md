@@ -9,6 +9,10 @@ I study the **web** -> view [my progress](https://github.com/users/Yourun-proger
 Plesae, get *stars* for my projects 
 
 and create *pull-requests*, *issues* and *comments* - **if it is need**
+
+# It's me)
+
+![](https://github-profile-trophy.vercel.app/?username=Yourun-Proger&column=7&theme=onedark)
 <!--
 **Yourun-proger/Yourun-proger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
