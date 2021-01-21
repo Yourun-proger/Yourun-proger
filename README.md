@@ -10,7 +10,7 @@ Plesae, get *stars* for my projects
 
 and create *pull-requests*, *issues* and *comments* - **if it is need**
 
-# It's me)
+# It's me in the GitHub)
 
 ![](https://github-profile-trophy.vercel.app/?username=Yourun-Proger&column=7&theme=onedark)
 <!--
