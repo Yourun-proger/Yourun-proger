@@ -15,8 +15,6 @@ and create *pull-requests*, *issues* and *comments* - **if it is need**
 ![](https://github-profile-trophy.vercel.app/?username=Yourun-Proger&column=7&theme=onedark)
 
 ![](https://github-readme-stats.vercel.app/api?username=Yourun-Proger&show_icons=true&theme=gotham)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yourun-Proger&layout=compact&theme=tokyonight)
 <!--
 **Yourun-proger/Yourun-proger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
