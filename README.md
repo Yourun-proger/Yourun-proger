@@ -8,7 +8,7 @@ I study the **web** -> view [my progress](https://github.com/users/Yourun-proger
 
 Plesae, get *stars* for my projects 
 
-and create *pull-requests*, *issues* and *comments* - **if it is need**
+and create *pull-requests*, *issues*, *code reviews* and *comments* - **if it is need**
 
 # It's me in the GitHub)
 
