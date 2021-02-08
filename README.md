@@ -4,7 +4,7 @@ HTML&CSS, JavaScript, Vue.js, FlexBox, Bootstrap, Flask
 
 I study the **web** -> view [my progress](https://github.com/users/Yourun-proger/projects/1?fullscreen=true)
 
-[My Calculator](https://calculatorbyyourun.netlify.app/) with JS
+[My porfolio](https://yourun-proger.github.io)
 
 Plesae, get *stars* for my projects 
 
