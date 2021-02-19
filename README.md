@@ -10,7 +10,7 @@ Plesae, get *stars* for my projects
 
 and create *pull-requests*, *issues*, *code reviews* , *forks* and *comments* - **if it is need**
 
-![](https://github-profile-trophy.vercel.app/?username=Yourun-Proger)
+![](https://github-profile-trophy.vercel.app/?username=Yourun-Proger&row=2&column=3)
 <!--
 **Yourun-proger/Yourun-proger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
