@@ -1,6 +1,6 @@
 ### Hello👋 I'm young proger!
 ### I ❤ 🐍!
-HTML&CSS, JavaScript, Vue.js, FlexBox, Bootstrap, Flask
+Full Flask
 
 I study the **web** -> view [my progress](https://github.com/users/Yourun-proger/projects/1?fullscreen=true)
 
