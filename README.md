@@ -1,6 +1,6 @@
 ### Hello👋 I'm young proger!
 ### I ❤ 🐍!
-Full Flask
+Full Flask dev
 
 I study the **web** -> view [my progress](https://github.com/users/Yourun-proger/projects/1?fullscreen=true)
 
