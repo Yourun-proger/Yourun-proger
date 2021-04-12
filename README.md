@@ -1,9 +1,5 @@
 ### Hello👋 I'm young proger!
-### I ❤ 🐍!
-Almost [Full Flask dev](https://github.com/users/Yourun-proger/projects/1?fullscreen=true)
-
-
-[My porfolio](https://yourun-proger.github.io)
+### I ❤ [Flask](https://github.com/users/Yourun-proger/projects/1?fullscreen=true)
 
 Plesae, get *stars* for my projects 
 
