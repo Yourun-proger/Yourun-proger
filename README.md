@@ -6,7 +6,6 @@
 👯 I’m looking to collaborate on back-end for open-source project
 
 ⚡ Fun fact: i know well basics of C++, Java and Kotlin
-![](https://github-readme-stats.vercel.app/api?username=yourun-proger&show_icons=true)
 <!--
 **Yourun-proger/Yourun-proger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
