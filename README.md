@@ -1,11 +1,5 @@
 ### Hello👋 I'm young proger!
-### I ❤ [Flask](https://github.com/users/Yourun-proger/projects/1?fullscreen=true)
-
-Plesae, get *stars* for my projects 
-
-and create *pull-requests*, *issues*, *code reviews* , *forks* and *comments* - **if it is need**
-
-![](https://github-readme-stats.vercel.app/api?username=yourun-proger&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=yourun-proger&show_icons=true" align=right>
 <!--
 **Yourun-proger/Yourun-proger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
