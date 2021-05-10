@@ -1,11 +1,11 @@
 ### Hello👋 I'm young proger!
-🔭 I’m currently working on Flask
+🔭 I’m currently working on `Flask`
 
-🌱 I’m currently learning Django, TKinter, Vue.js
+🌱 I’m currently learning `Django`, `TKinter`, `Vue.js`
 
 👯 I’m looking to collaborate on back-end for open-source project
 
-⚡ Cool fact: i know well basics of C++, Java and Kotlin
+⚡ Cool fact: i know well basics of _C++_, _Java_ and _Kotlin_
 <!--
 **Yourun-proger/Yourun-proger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
