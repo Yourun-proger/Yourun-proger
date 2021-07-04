@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning `Django`, `TKinter`, `Vue.js`
 
-👯 I’m looking to collaborate on back-end for open-source project
+👯 I have an xp in collaboration in pallets/click: [#1948](https://github.com/pallets/click/pull/1948), [#1938](https://github.com/pallets/click/pull/1938)
 
 ⚡ Cool fact: i know well basics of _C++_, _Java_ and _Kotlin_
 <!--
