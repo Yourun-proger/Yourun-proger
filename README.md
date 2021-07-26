@@ -1,7 +1,7 @@
 ### Hello👋 I'm young proger!
 🔭 I’m currently working on `Flask`
 
-🌱 I’m currently learning `Django`, `TKinter`, `Vue.js`
+🌱 I’m currently learning `TKinter`, `Vue.js`
 
 👯 I have an xp in collaboration in:
 
