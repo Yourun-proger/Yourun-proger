@@ -5,11 +5,10 @@
 
 👯 I have an xp in collaboration in:
 
-pallets/click: [#1948](https://github.com/pallets/click/pull/1948), [#1938](https://github.com/pallets/click/pull/1938)
+- pallets/flask: [#4152](https://github.com/pallets/flask/pull/4152) - ***Bugfix***
 
-thonny/thonny: [#1901](https://github.com/thonny/thonny/pull/1901)
+- pytest-dev/pytest-flask: [#145](https://github.com/pytest-dev/pytest-flask/pull/145), [#146](https://github.com/pytest-dev/pytest-flask/pull/146)
 
-marshmallow-code/marshmallow-sqlalchemy: [#402](https://github.com/marshmallow-code/marshmallow-sqlalchemy/pull/402)
 
 ⚡ Cool fact: i know well basics of _C++_, _Java_ and _Kotlin_
 <!--
