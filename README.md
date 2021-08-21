@@ -5,7 +5,7 @@
 
 👯 I have an xp in collaboration in:
 
-- pallets/flask: [#4152](https://github.com/pallets/flask/pull/4152) - ***Bugfix***
+- pallets/flask: [#4152](https://github.com/pallets/flask/pull/4152)
 
 - pytest-dev/pytest-flask: [#145](https://github.com/pytest-dev/pytest-flask/pull/145), [#146](https://github.com/pytest-dev/pytest-flask/pull/146)
 
