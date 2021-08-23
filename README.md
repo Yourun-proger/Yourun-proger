@@ -5,9 +5,9 @@
 
 👯 I have an xp in collaboration in:
 
-- pallets/flask: [#4152](https://github.com/pallets/flask/pull/4152)
+- flask:[#4152](https://github.com/pallets/flask/pull/4152)
 
-- pytest-dev/pytest-flask: [#145](https://github.com/pytest-dev/pytest-flask/pull/145), [#146](https://github.com/pytest-dev/pytest-flask/pull/146)
+- pytest-flask: [#145](https://github.com/pytest-dev/pytest-flask/pull/145), [#146](https://github.com/pytest-dev/pytest-flask/pull/146)
 
 
 ⚡ Cool fact: i know well basics of _C++_, _Java_ and _Kotlin_
