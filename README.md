@@ -1,7 +1,7 @@
 ### Hello👋 I'm young proger!
-🔭 I’m currently working on `Flask`
+🔭 I’m currently working on `Flask`, `Xgboost`, `Sckit_Learn`
 
-🌱 I’m currently learning `TKinter`, `Vue.js`
+🌱 I’m currently learning **Machine Learning** and participe on *Kaggle* competitions
 
 👯 I have an xp in collaboration in:
 
@@ -10,7 +10,7 @@
 - pytest-flask: [#145](https://github.com/pytest-dev/pytest-flask/pull/145), [#146](https://github.com/pytest-dev/pytest-flask/pull/146)
 
 
-⚡ Cool fact: i know well basics of _C++_, _Java_ and _Kotlin_
+⚡ i doing [kefir](https://github.com/Yourun-proger/kefir)
 <!--
 **Yourun-proger/Yourun-proger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
