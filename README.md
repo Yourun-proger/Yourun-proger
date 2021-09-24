@@ -7,6 +7,8 @@
 
 - flask: [#4152](https://github.com/pallets/flask/pull/4152)
 
+- werkzeug: [#2236](https://github.com/pallets/werkzeug/pull/2236)
+
 - pytest-flask: [#145](https://github.com/pytest-dev/pytest-flask/pull/145), [#146](https://github.com/pytest-dev/pytest-flask/pull/146)
 
 
