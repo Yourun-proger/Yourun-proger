@@ -1,18 +1,15 @@
 ### Hello👋 I'm young proger!
-🔭 I’m currently working on `Flask`, `Xgboost`, `Sckit_Learn`
+⚡ I am the creator of ***[kefir](https://github.com/Yourun-proger/kefir)***. This is a new look at serialization of SQLAlchemy models and objects. Check it now!
 
-🌱 I’m currently learning **Machine Learning** and participe on *Kaggle* competitions
+👀 [See my portfolio site](https://yourun-proger.github.io/). It is minimalistic, but everything that is written there is **!false**.
 
-👯 I have an xp in collaboration in:
+🔭 I’m currently working on `Python`, `C++`
 
-- flask: [#4152](https://github.com/pallets/flask/pull/4152)
-
-- werkzeug: [#2236](https://github.com/pallets/werkzeug/pull/2236)
-
-- pytest-flask: [#145](https://github.com/pytest-dev/pytest-flask/pull/145), [#146](https://github.com/pytest-dev/pytest-flask/pull/146)
+🌱 I'm currently learning *Web Development*
 
 
-⚡ i doing [kefir](https://github.com/Yourun-proger/kefir)
+
+
 <!--
 **Yourun-proger/Yourun-proger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
